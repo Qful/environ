@@ -1,33 +1,21 @@
 ﻿# [environ](https://github.com/litfe/environ) 
- 
-设备内部的环境检测网络
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### 更多关于：[litelife](https://github.com/litfe/litelife)可访问 www.litelife.cc
+#### qitas@qitas.cn -- [GitHub](https://github.com/lite-life/litelife)
 
----
+## [简介](https://github.com/lite-life/environ/wiki) 
 
-## 简介
+可复用的灯光控制组件，包括照明和信息呈现
+
+### [组成](litelife/) 
+
+- [文档](docs/) 
+- [资源](src/) 
+- [工程](projects/) 
 
 
 
----
 
-## 组成
 
-#### 空气质量控制
 
-#### 空气压力检测
-
-#### 水压监控
-
-#### 温湿度控制
-
-使用高精度传感器si7021
-
-#### 噪声控制
-
----
-
-##  www.litelife.cc   |   qitas@qitas.cn
