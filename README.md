@@ -1,21 +1,28 @@
-﻿# [environ](https://github.com/litfe/environ) 
+﻿# [environ](https://github.com/Qful/environ)
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
+[![sites](Qful/qitas.png)](http://www.Qful.net)
 
-#### qitas@qitas.cn -- [GitHub](https://github.com/lite-life/litelife)
+## [environ简介](https://github.com/Qful/environ)
 
-## [简介](https://github.com/lite-life/environ/wiki) 
+环境管理组件，通过传感器收集相应的数据并根据管理策略和权限执行相应的控制，例如闭环的温度管理噪音管理等，对于可消除的因素进行消除，不可消除的进行补偿，尽量减少不利的影响，而且可以从云端获取相应的支持，消除不利的环境因素。
 
-可复用的灯光控制组件，包括照明和信息呈现
+环境管理组件作为一个子系统，需要更加智能或者是可以智能化升级，不单单是是一个数据采集端，而这个指挥的组件可以被更多上层的智能硬件集成。
 
-### [组成](litelife/) 
+本工程主要针对通用化的智能环境管理，最大化平衡设备的各种性能，提供最典型的集成化方案，也是客制化的一个模板工程，将定义出智能的形态和互补提升。
 
-- [文档](docs/) 
-- [资源](src/) 
-- [工程](projects/) 
+### [工程目录](https://github.com/Qful/environ)
 
+* [文档](docs/)
+* [资源](src/)
+* [工程](project/)
 
+### [Q资源](https://github.com/Qful)
 
+* [Q系统](https://github.com/OS-Q)
+* [Q硬件](https://github.com/sochub)
+* [Q智慧](https://github.com/tfzoo)
+* [Q品质](https://github.com/qitas)
 
+### www.Qful.net
 
 
